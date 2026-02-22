@@ -1,0 +1,95 @@
+{
+    "users": [
+        {
+            "name": "Krishna Rathore",
+            "age": 20,
+            "phoneNumber": 8253039292,
+            "email": "",
+            "accountNumber": "uYtPhOen",
+            "pin": 9292,
+            "balance": 7500,
+            "status": "Closed",
+            "isDeleted": true,
+            "transactions": [
+                {
+                    "type": "Deposit",
+                    "amount": 10000,
+                    "date": "2026-02-23 00:59:38",
+                    "balance": 10000
+                },
+                {
+                    "type": "Withdraw",
+                    "amount": 10000,
+                    "date": "2026-02-23 00:59:42",
+                    "balance": 0
+                },
+                {
+                    "type": "Deposit",
+                    "amount": 10000,
+                    "date": "2026-02-23 00:59:50",
+                    "balance": 10000
+                },
+                {
+                    "type": "Withdraw",
+                    "amount": 2500,
+                    "date": "2026-02-23 01:00:00",
+                    "balance": 7500
+                }
+            ]
+        },
+        {
+            "name": "Krishna Rathore",
+            "age": 20,
+            "phoneNumber": 8253039292,
+            "email": "",
+            "accountNumber": "hoCrJjTK",
+            "pin": 9292,
+            "balance": 8000,
+            "status": "Closed",
+            "isDeleted": true,
+            "transactions": [
+                {
+                    "type": "Deposit",
+                    "amount": 10000,
+                    "date": "2026-02-23 01:07:19",
+                    "balance": 10000
+                },
+                {
+                    "type": "Withdraw",
+                    "amount": 2000,
+                    "date": "2026-02-23 01:07:29",
+                    "balance": 8000
+                }
+            ]
+        },
+        {
+            "name": "Krishna Rathore",
+            "age": 20,
+            "phoneNumber": 8253039292,
+            "email": "",
+            "accountNumber": "BGOr1gSD",
+            "pin": 9292,
+            "balance": 9000,
+            "status": "Active",
+            "isDeleted": false,
+            "transactions": [
+                {
+                    "type": "Deposit",
+                    "amount": 10000,
+                    "date": "2026-02-23 01:09:21",
+                    "balance": 10000
+                },
+                {
+                    "type": "Withdraw",
+                    "amount": 1000,
+                    "date": "2026-02-23 01:09:28",
+                    "balance": 9000
+                }
+            ]
+        }
+    ],
+    "admin": {
+        "username": "admin",
+        "password": "admin123"
+    }
+}
